@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-es6tabs",
-  "version": "1.0.0",
-  "description": "ES 6 and ES 5 code tabs tabs",
+  "version": "0.0.0",
+  "description": "Include ES 6 code blocks, with automatically generated ES 5 tab",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
