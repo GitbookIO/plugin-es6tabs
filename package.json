@@ -1,0 +1,31 @@
+{
+  "name": "gitbook-plugin-es6tabs",
+  "version": "1.0.0",
+  "description": "ES 6 and ES 5 code tabs tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitbookIO/plugin-es6tabs.git"
+  },
+  "keywords": [
+    "gitbook",
+    "code"
+  ],
+  "engines": {
+    "gitbook": ">=3.0.0-pre.8"
+  },
+  "author": "Samy Pesse <samy@gitbook.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GitbookIO/plugin-es6tabs/issues"
+  },
+  "homepage": "https://github.com/GitbookIO/plugin-es6tabs#readme",
+  "dependencies": {
+    "babel-core": "^6.7.6",
+    "babel-preset-es2015": "^6.6.0",
+    "gitbook-plugin-codetabs": "*"
+  }
+}
