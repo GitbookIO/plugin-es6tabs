@@ -1,6 +1,8 @@
 # es6tabs
 
-Include ES 6 code blocks, with automatically generated ES 5 tab.
+Include ES 6 code blocks, with automatically generated ES 5 preview using [Babel](https://babeljs.io/).
+
+![Preview](./preview.png)
 
 ### Installation
 
